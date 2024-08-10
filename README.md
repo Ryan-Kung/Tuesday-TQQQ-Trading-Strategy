@@ -8,4 +8,5 @@
 
 ## Sell
 
-* The day closes higher than the previous day's high, sell at close 
+* The day closes higher than the previous day's high
+* Sell at close 
